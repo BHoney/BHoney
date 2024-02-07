@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi. I'm Robert. (He/Him)
+
+If you're reading this, there's a good chance I put this on some application for you company.
+I have recently grown tired of my Github being a repository for projects I haven't touched since college and my only commits being work related, so you're gonna see a bunch of weird things pop up here.
+The best ways to get to know me are...
+ - A: Look at my stars and watches or
+ - B: Ask me, I don't bite.
+Thank you for stopping by, hope to have something interesting here to look at soon.
 
 <!--
 **BHoney/BHoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
