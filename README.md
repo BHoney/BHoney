@@ -5,6 +5,7 @@ I have recently grown tired of my Github being a repository for projects I haven
 The best ways to get to know me are...
  - A: Look at my stars and watches or
  - B: Ask me, I don't bite.
+   
 Thank you for stopping by, hope to have something interesting here to look at soon.
 
 <!--
