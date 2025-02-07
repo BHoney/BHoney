@@ -13,6 +13,7 @@ I'm a fullstack software engineer with 8 years of experience who has worked in f
  - A Godot engine experiement in the form of simple games to get a grasp of the game engine
  - Unreal engine experiements, to expand my skillset
  - A portfolio website because I need one
+ - UI/UX Design, because at a certain point a "Developer Mockup" doesn't cut it.
 
 ## I am currently interested in...
 - Decentrilization. In a world where our social media sites have become walled off and information is trapped behind logins held by billionares and their mood swings, making everything more accessible everywhere is of great interest of me.
